@@ -143,6 +143,22 @@ Grade Band Implementation
 - Elevator pitch to edu admin -- share the data on careers/skills needed
 - Survey on career clusters
 
+-------------------------------------------------------------------------------
+
+## NC State - Data for Beginners
+- Helping students get engaged with data
+- Building agency
+
+## [Exercise](https://docs.google.com/presentation/d/1dDXofqkqv0M0x0e_Qwtcb7RqJtbrWM3HOriyBsZlkF4/edit#slide=id.g276886637a7_0_56)
+
+- Draw river/watershed
+- Analyze PFAS 
+
+Teaching
+- Hands-on to let the student connect the data to the story
+- Students care about the critters but not the numbers
+
+
 
 
 
