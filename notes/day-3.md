@@ -17,7 +17,7 @@ Speaker, Vrinda D. Desai
 
 [NOAA Weather and Climate Toolkit](https://www.ncdc.noaa.gov/wct/)
 
-[Environmental Sciences STEM/Outreach Resourcesl(https://docs.google.com/document/d/1IlWTGACQtVyd5KWCwC7jr8wYLlYUcDl-iyzL8ZYWarY/edit)
+[Environmental Sciences STEM/Outreach Resources](https://docs.google.com/document/d/1IlWTGACQtVyd5KWCwC7jr8wYLlYUcDl-iyzL8ZYWarY/edit)
 
 *Resources for students and teachers*
 
