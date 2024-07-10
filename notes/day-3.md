@@ -55,6 +55,7 @@ Speaker, Vrinda D. Desai
 [CODAP](https://codap.concord.org)
 
 - Practice Exercise using Ceral Data
+  
 [Cereal Data - Gluten Free vs. Non-Gluten Free](https://codap.concord.org/app/static/dg/en/cert/index.html#shared=https%3A%2F%2Fcfm-shared.concord.org%2FoZvJOu3KvMD8iaSbCsH2%2Ffile.json)
 
 ### The Data Investigation Process
