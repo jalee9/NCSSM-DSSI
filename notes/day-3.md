@@ -27,6 +27,8 @@ Speaker, Vrinda D. Desai
 
 [NC State](fi.ncsu.edu)
 
+[Presentation](https://drive.google.com/file/d/1fJR9_978HvwRAqFChtO88YAAmyeygC4V/view)
+
 ### Resources
 
 [Our World in Data](https://ourworldindata.org/)
@@ -54,6 +56,9 @@ Speaker, Vrinda D. Desai
 
 [CODAP](https://codap.concord.org)
 
+[Concord Consortium](https://concord.org/resources/)
+- Teacher resources and lessons for computer science
+
 - Practice Exercise using Ceral Data
   
 [Cereal Data - Gluten Free vs. Non-Gluten Free](https://codap.concord.org/app/static/dg/en/cert/index.html#shared=https%3A%2F%2Fcfm-shared.concord.org%2FoZvJOu3KvMD8iaSbCsH2%2Ffile.json)
@@ -69,6 +74,16 @@ Speaker, Vrinda D. Desai
 5. Consider models.
 6. Communicate and propose action.
 
+### Key Considerations and Dispositions
+1. Make sens of data with respect to context.
+2. Take advantage of technology.
+3. Attend to variability and uncertainty.
+4. See expertise and information.
+5. Communicate and collaborate.
+6. Be curious, creative, and intiutive.
+7. Persist and be resilient.
+8. Consider ethical issues and biases.
+9. Be a skeptic.
 
 
 
